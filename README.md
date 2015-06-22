@@ -10,3 +10,4 @@ I am Lee Yang Peng, from Dunman High School, who presented on "Network Security 
 Please go to plot.ly/~lee.yangpeng to view my profile for my plotly graphs!
 
 Slides are at: http://go.dhs.sg/yangpengAPAC
+or https://speakerdeck.com/leeyp/pycon-sg-2015-lee-yang-peng
